@@ -6,11 +6,12 @@
 }
 
 header{
-    background:yellow ;
+    background:rgb(255, 136, 0) ;
 
     grid-area: h;
     
 }
+
 
 main{
     background: blue;
